@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "327857137423",
+    "firebase_url": "https://labmaderkse.firebaseio.com",
+    "project_id": "labmaderkse",
+    "storage_bucket": "labmaderkse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327857137423:android:f95065fb6257403d",
+        "android_client_info": {
+          "package_name": "com.marhan.labmaderkse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327857137423-u90imrfqvqjiglg7ib1c6ftvokuh4udn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marhan.labmaderkse",
+            "certificate_hash": "8c7ef02fd7c8adc94fcd0513ab8b6855c1740172"
+          }
+        },
+        {
+          "client_id": "327857137423-emfgui51grjr47e61jjdn4g0d23ud8fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaWGVC9R2jZcgnz_-GXX4jQgjHGlgp990"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327857137423-emfgui51grjr47e61jjdn4g0d23ud8fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
